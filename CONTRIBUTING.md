@@ -1,8 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to this project.
-
-We welcome all contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas.
+All Contributions.
 
 ## How to Contribute
 
