@@ -1,3 +1,4 @@
 $ git branch -vv
-* bug-fix-typo e5f6g7h [origin/bug-fix-typo] Fix typo in calculator script
-  main         a1b2c3d [origin/main] Initial setup for simple-interest tool
+* bug-fix-revert e5f6g7h [origin/bug-fix-revert] Revert typo fix in calculator script
+  bug-fix-typo   e5f6g7h [origin/bug-fix-typo] Fix typo in calculator script
+  main           a1b2c3d [origin/main] Initial setup for simple-interest tool
